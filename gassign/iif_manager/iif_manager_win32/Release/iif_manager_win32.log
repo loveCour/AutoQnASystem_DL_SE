@@ -1,0 +1,7 @@
+﻿  iif_man_control.c
+..\iif_man_control.c(148): warning C4996: '_unlink': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _unlink. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(264): note: see declaration of '_unlink'
+..\iif_man_control.c(405): warning C4996: '_unlink': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _unlink. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(264): note: see declaration of '_unlink'
+..\iif_man_control.c(669): warning C4013: 'searchQuery' undefined; assuming extern returning int
+  iif_manager_win32.vcxproj -> D:\AutoQnASystem_DL_SE\gassign\iif_manager\iif_manager_win32\Release\iif_manager_win32.lib
